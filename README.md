@@ -24,5 +24,8 @@ A la différence de kits semblables existants, celui ci est soumis à quelques c
 - tous les éléments de ce kit doivent être disponibles au FABLAB de TIDD
 - dans le cas où l'élément n'est pas disponible au FABLAB, il doit pouvoir être trouvé de façon locale
 - le kit doit être réalisé en une durée d'un mois maximum
-- la documentation du kit doit être suffisamment claire pour que n'importe qui puisse reproduire ce kit 
+- la documentation du kit doit être suffisamment claire pour que n'importe qui puisse reproduire ce kit
+
+
+De plus, pour chaque TP prévu par le programme, il y aura un lien qui redirigera vers un tutoriel expliquant comment faire le TP. Cela a été implémenté afin d'aider les élèves qui ont besoin de plus de temps ou de pratique pour assimiler la notion et qui échouent donc à comprendre ce qui est enseigné pendant qu'ils sont encore en cours.
 

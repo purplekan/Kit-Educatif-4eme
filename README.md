@@ -10,8 +10,13 @@ Ce projet vient répondre à un problème récurrent dans le programme togolais.
 Cependant, avec un kit, l'élève possède a sa portée tous les éléments nécessaires pour reproduire les travaux pratiques chez lui. Il a donc la possibilié d'analyser de fond en comble le fonctionnement, les principes appliqués et cela le rend plus susceptible de produire un travail de qualité lors d'une application potentielle du principe étudié.
 
 ### SOMMAIRE  
-### 1 - PRESENTATION DU PROJET
-### 2 - OBJECTIFS DU PROJET  
-### 3 - LISTE DU MATERIEL  
-### 4 - BREVE DESCRIPTION DE CHAQUE ELEMENT DU MATERIEL
+1 - PRESENTATION DU PROJET
+2 - OBJECTIFS DU PROJET  
+3 - LISTE DU MATERIEL  
+4 - BREVE DESCRIPTION DE CHAQUE ELEMENT DU MATERIEL  
+
+
+### 1 - PRESENTATION DU PROJET  
+Un kit est un ensemble d'éléments contenant tout le nécessaire pour réaliser un objectif précis. Il existe de nombreux types de kits tels que des kits d'électronique, de bricolage, de chimie, de physique pour ne citer que certains. Le projet dont nous nous occupons consiste à réaliser un kit de physiques-chimie.  
+Dans ce kit, l'on retrouvera des éléments de chimie tels que des électrodes ou des portions de substances chimiques, des composants électriques et des outils pour appliquer diverses lois de la physique étudiées en classe de 4ème.
 

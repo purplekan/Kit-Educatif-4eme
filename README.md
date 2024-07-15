@@ -9,5 +9,9 @@ Dans le cadre de mon stage de fin de parcours à l'entreprise TIDD TOGO (Technol
 Ce projet vient répondre à un problème récurrent dans le programme togolais. En effet, de nombreuses notions sont enseignées aux élèves mais rares sont ceux là qui ont eu l'opportunité de voir par leur propre yeux le fonctionnement d'une machine étudiée. La plupart du temps, ce n'est que pure théorie favorisant ainsi le manque d'investissement, de compréhension ainsi qu'un oubli.  
 Cependant, avec un kit, l'élève possède a sa portée tous les éléments nécessaires pour reproduire les travaux pratiques chez lui. Il a donc la possibilié d'analyser de fond en comble le fonctionnement, les principes appliqués et cela le rend plus susceptible de produire un travail de qualité lors d'une application potentielle du principe étudié.
 
-### SOMMAIRE
+### SOMMAIRE  
+### 1 - PRESENTATION DU PROJET
+### 2 - OBJECTIFS DU PROJET  
+### 3 - LISTE DU MATERIEL  
+### 4 - BREVE DESCRIPTION DE CHAQUE ELEMENT DU MATERIEL
 

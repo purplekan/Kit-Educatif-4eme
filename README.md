@@ -10,7 +10,7 @@ Ce projet vient répondre à un problème récurrent dans le programme togolais.
 Cependant, avec un kit, l'élève possède a sa portée tous les éléments nécessaires pour reproduire les travaux pratiques chez lui. Il a donc la possibilié d'analyser de fond en comble le fonctionnement, les principes appliqués et cela le rend plus susceptible de produire un travail de qualité lors d'une application potentielle du principe étudié.
 
 ### SOMMAIRE  
-1 - PRESENTATION DU PROJET
+1 - PRESENTATION DU PROJET  
 2 - OBJECTIFS DU PROJET  
 3 - LISTE DU MATERIEL  
 4 - BREVE DESCRIPTION DE CHAQUE ELEMENT DU MATERIEL  

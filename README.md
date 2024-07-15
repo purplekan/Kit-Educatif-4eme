@@ -39,4 +39,4 @@ Ci après les dits objectifs :
 - encourager les élèves à réaliser des expériences par eux mêmes et stimuler leur curiosité scientifique 
 - renforcer la compréhension des étudiants et la mémorisation par la pratique et la répétition
 - motiver les élèves en les amenant à s'investir activement dans leur apprentissage
-- 
+- améliorer la capacité des élèves à diagnostiquer et résoudre des problèmes 

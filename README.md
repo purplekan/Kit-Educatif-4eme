@@ -29,4 +29,11 @@ A la différence de kits semblables existants, celui ci est soumis à quelques c
 
 De plus, pour chaque TP prévu par le programme, il y aura un lien qui redirigera vers un tutoriel expliquant comment faire le TP. Cela a été implémenté afin d'aider les élèves qui ont besoin de plus de temps ou de pratique pour assimiler la notion et qui échouent donc à comprendre ce qui est enseigné pendant qu'ils sont encore en cours.
 
-### 2 - OBJECTIFS DU PROJET 
+### 2 - OBJECTIFS DU PROJET   
+
+Ce projet de réalisation de kit étant à but pédagogique, il y a quelques objectifs que nous visons.  
+Ci après les dits objectifs :  
+- aider les élèves à mieux comprendre les concepts théoriques qu'ils apprennent en cours
+- améliorer la capacité des éleves à visualiser le fonctionnement des machines et outils étudiés
+- aider les élèves à se familiariser avec les outils et plus généralement au montage de composants, à la réalisation de circuits
+- 

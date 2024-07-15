@@ -18,5 +18,11 @@ Cependant, avec un kit, l'élève possède a sa portée tous les éléments néc
 
 ### 1 - PRESENTATION DU PROJET  
 Un kit est un ensemble d'éléments contenant tout le nécessaire pour réaliser un objectif précis. Il existe de nombreux types de kits tels que des kits d'électronique, de bricolage, de chimie, de physique pour ne citer que certains. Le projet dont nous nous occupons consiste à réaliser un kit de physiques-chimie.  
-Dans ce kit, l'on retrouvera des éléments de chimie tels que des électrodes ou des portions de substances chimiques, des composants électriques et des outils pour appliquer diverses lois de la physique étudiées en classe de 4ème.
+Dans ce kit, l'on retrouvera des éléments de chimie tels que des électrodes ou des portions de substances chimiques, des composants électriques et des outils pour appliquer diverses lois de la physique étudiées en classe de 4ème.  
+
+A la différence de kits semblables existants, celui ci est soumis à quelques contraintes :  
+- tous les éléments de ce kit doivent être disponibles au FABLAB de TIDD
+- dans le cas où l'élément n'est pas disponible au FABLAB, il doit pouvoir être trouvé de façon locale
+- le kit doit être réalisé en une durée d'un mois maximum
+- la documentation du kit doit être suffisamment claire pour que n'importe qui puisse reproduire ce kit 
 

@@ -36,7 +36,7 @@ Ci après les dits objectifs :
 - aider les élèves à mieux comprendre les concepts théoriques qu'ils apprennent en cours
 - améliorer la capacité des éleves à visualiser le fonctionnement des machines et outils étudiés
 - aider les élèves à se familiariser avec les outils et plus généralement au montage de composants, à la réalisation de circuits
-- encourager les élèves à réaliser des expériences par eux mêmes
-- renforcer la compréhension des étudiants par la pratique et la répétition
+- encourager les élèves à réaliser des expériences par eux mêmes et stimuler leur curiosité scientifique 
+- renforcer la compréhension des étudiants et la mémorisation par la pratique et la répétition
 - motiver les élèves en les amenant à s'investir activement dans leur apprentissage
 - 

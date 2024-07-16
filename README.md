@@ -41,3 +41,5 @@ Ci après les dits objectifs :
 - motiver les élèves en les amenant à s'investir activement dans leur apprentissage
 - améliorer la capacité des élèves à diagnostiquer et résoudre des problèmes par la manipulation des outils
 - faciliter l'application des connaissances acquises à des situations réelles
+
+Plus simplement, l'objectif que vise ce projet est de combler le fossé évident entre la théorie et la pratique existant dans le programme togolais en offrant aux élèves l'opportunité de s'exercer à leur envie aux travaux pratiques.

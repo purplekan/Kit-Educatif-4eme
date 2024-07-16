@@ -122,6 +122,26 @@ Pour ce faire, nous utiliserons les logiciels [Kicad](https://www.kicad.org) (po
 
 ![Capture d'écran 2024-07-09 102801](https://github.com/user-attachments/assets/5f55798e-3fb9-4edd-890b-a9afb50cb387)  
 
+![Capture d'écran 2024-07-09 102817](https://github.com/user-attachments/assets/478b3ae0-de17-4fc0-8406-10bcc77d495d)  
+
+![Capture d'écran 2024-07-09 102838](https://github.com/user-attachments/assets/6a18ffb4-598c-4f62-8f47-993cdb424080)  
+
+![Capture d'écran 2024-07-09 102905](https://github.com/user-attachments/assets/60a29924-3939-4aad-b0f8-caba8bf2b371)  
+
+![Capture d'écran 2024-07-09 102935](https://github.com/user-attachments/assets/ff749bf1-7f35-42f5-8b41-68a6033e172e)  
+
+![Capture d'écran 2024-07-09 102950](https://github.com/user-attachments/assets/a542f0f1-4db0-4798-a6da-ec9f04477499)  
+
+![Capture d'écran 2024-07-09 103004](https://github.com/user-attachments/assets/daacef14-b6a8-4c5c-9f14-05ffb2faa264)  
+
+
+
+
+
+
+
+
+
 
 
 

@@ -100,7 +100,12 @@ Pour ce faire, nous utiliserons les logiciels [Kicad](https://www.kicad.org) (po
 En prenant l'exemple de la LED, nous allons expliquer le processus par lequel nous réalisons les composants électroniques du kit, depuis le schéma au composant prêt à être utilisé. 
 ### A - 1. LED  
 Pour concevoir notre LED prête à être utilisée par les élèves, on commence par créér un nouveau projet dans l'application [Kicad](https://www.kicad.org). Suite à cela, nous entrons dans l'éditeur de schéma. Là, nous sélectionnons parmi les composants, la led ainsi que deux broches femelles.  
-Une fois que les composants sont reliés entre eux, nous leur assignons chacun une empreinte. Nous pouvons définir l'empreinte en tant que la trace que laisse le composant sur la plaque de cuivre. Le plus souvent, cela correspond à l'espace nécessaire pour faire passer leurs pattes à travers la [plaque de cuivre](https://www.google.com/imgres?q=plaque%20de%20cuivre&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61Wvf4K9lOL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.be%2FPlaque-cuivre-m%25C3%25A9tal-rouge-Feuille%2Fdp%2FB0C9MZGG9D&docid=2mfXx0tqihvN0M&tbnid=Iq-B5xibmUsjmM&vet=12ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA).
+Une fois que les composants sont reliés entre eux, nous leur assignons chacun une empreinte. Nous pouvons définir l'empreinte en tant que la trace que laisse le composant sur la plaque de cuivre. Le plus souvent, cela correspond à l'espace nécessaire pour faire passer leurs pattes à travers la [plaque de cuivre](https://www.google.com/imgres?q=plaque%20de%20cuivre&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61Wvf4K9lOL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.be%2FPlaque-cuivre-m%25C3%25A9tal-rouge-Feuille%2Fdp%2FB0C9MZGG9D&docid=2mfXx0tqihvN0M&tbnid=Iq-B5xibmUsjmM&vet=12ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA).  
+
+Après avoir sauvegardé le schéma, nous ouvrons l'éditeur de [PCB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mainpcba.com%2Fwhy-pcb-etching-is-critically-important-for-electronics-market%2F&psig=AOvVaw2W0MaiGAb6qnLBVWqQRuDz&ust=1721229802548000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiqlffo7quHAxUyiv0HHbq) (Printed Circuit Board). Un bouton 🔳 sur la barre des tâches en haut à droite nous permet de faire une mise à jour et par conséquent d'importer les empreintes des composants dans l'éditeur de PCB.  
+![image](https://github.com/user-attachments/assets/6f585e43-604a-4fb8-b693-ac345e374823)
+
+Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque. 
 
 
 

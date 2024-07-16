@@ -95,6 +95,15 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 La plupart des composants électroniques de ce kit sont montés sur des circuits imprimés. Nous aurons donc le composant sur la plaque ainsi que deux broches pour relier le composant au reste du circuit. Si le besoin y est, une résistance sera également ajoutée pour protéger le composant.  
 
 Pour ce faire, nous utiliserons les logiciels [Kicad](https://www.kicad.org) (pour le circuit imprimé), [FlatCam](http://flatcam.org) (pour le Gcode servant à contrôler la CNC) et le [Grbl control](https://grbl-controller.software.informer.com/Télécharger/) (pour manipuler la CNC).
-### A - 1. LED  
+### A - 1. LED    
+![Capture d'écran 2024-07-09 094733](https://github.com/user-attachments/assets/26d3b048-6399-48e2-af2b-9f824318ae0a)  
+
+![Capture d'écran 2024-07-09 100903](https://github.com/user-attachments/assets/a8bc204d-5907-4f96-9e3b-dd87868b2332)  
+
+![Capture d'écran 2024-07-09 100842](https://github.com/user-attachments/assets/1aaa088b-9696-4dab-8d48-edba71e70376)
+
+
+
+
 
 

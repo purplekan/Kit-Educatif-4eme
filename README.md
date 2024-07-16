@@ -84,11 +84,10 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Tige en cuivre                    |
 |                                | Isolant                           |
 |                                | Paille en plastique               |
-| **Solutions Chimiques**        | Solution de sulfate               |
+| **Solutions Chimiques**        | Solution de sulfate de cuivre               |
 |                                | Solution de dichromate de potassium |
-|                                | Sulfate en graphite               |
 |                                | Sel de cuisine                    |
 |                                | Eau distillée                     |
-|                                | Solution de sulfate de cuivre     |
 | **Électrochimie**              | Anode en cuivre                   |
+|                                | Sulfate en graphite               |
 

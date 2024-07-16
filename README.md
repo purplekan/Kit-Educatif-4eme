@@ -89,5 +89,7 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Sel de cuisine                    |
 |                                | Eau distillée                     |
 | **Électrochimie**              | Anode en cuivre                   |
-|                                | Sulfate en graphite               |
+|                                | Sulfate en graphite               |  
+
+### A - COMPOSANTS ELECTRONIQUES
 

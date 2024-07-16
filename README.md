@@ -50,4 +50,45 @@ C'est un document destiné à l'endroit des professeurs et qui leur permet de di
   
 Le document est divisé en matières. Chaque matière a plusieurs leçons et chaque leçons, plusieurs séances. La plupart des séances comportent un schéma, un TP ou une situation problème relative à la leçon étudiée. C'est grâce à ces schémas et TP que nous savons de quoi aurons besoin les élèves et en quelle quantité.  
 
-Dans le tableau suivant se trouve la liste des éléments contenus dans le kit éducatif réalisé : 
+Dans le tableau suivant se trouve la liste des éléments contenus dans le kit éducatif réalisé :  
+
+### Matériaux
+
+| **Catégorie**                  | **Élément**                        |
+|--------------------------------|-----------------------------------|
+| **Composants Électroniques**   | LED                               |
+|                                | Transistor                        |
+|                                | LDR                               |
+|                                | Diode Zener                       |
+|                                | Étain                             |
+|                                | Bobine ou aimant (source de tension alternative) |
+| **Outils**                     | Tournevis testeur                 |
+| **Optique**                    | Miroir rectangulaire              |
+|                                | Source de lumière identique       |
+| **Matériaux Divers**           | Aimant                            |
+|                                | Aiguille                          |
+|                                | Carton                            |
+|                                | Vitre (verre de glace)            |
+|                                | Papier calque                     |
+| **Modèles et Structures**      | Sphère (modélisée)                |
+|                                | Sphère de rayon différent         |
+|                                | Carton servant d'écran            |
+| **Expérimentation**            | Boussole                          |
+|                                | Lampe                             |
+|                                | Torche                            |
+|                                | Bougie                            |
+|                                | Cube (plein)                      |
+|                                | Cube (creux)                      |
+|                                | Support vertical                  |
+|                                | Boule                             |
+|                                | Tige en cuivre                    |
+|                                | Isolant                           |
+|                                | Paille en plastique               |
+| **Solutions Chimiques**        | Solution de sulfate               |
+|                                | Solution de dichromate de potassium |
+|                                | Sulfate en graphite               |
+|                                | Sel de cuisine                    |
+|                                | Eau distillée                     |
+|                                | Solution de sulfate de cuivre     |
+| **Électrochimie**              | Anode en cuivre                   |
+

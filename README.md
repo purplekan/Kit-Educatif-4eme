@@ -107,7 +107,8 @@ Une fois que les composants sont reliés entre eux, nous leur assignons chacun u
 Après avoir sauvegardé le schéma, nous ouvrons l'éditeur de [PCB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mainpcba.com%2Fwhy-pcb-etching-is-critically-important-for-electronics-market%2F&psig=AOvVaw2W0MaiGAb6qnLBVWqQRuDz&ust=1721229802548000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiqlffo7quHAxUyiv0HHbq) (Printed Circuit Board). Un bouton 🔳 sur la barre des tâches en haut à droite nous permet de faire une mise à jour et par conséquent d'importer les empreintes des composants dans l'éditeur de PCB.  
 ![image](https://github.com/user-attachments/assets/6f585e43-604a-4fb8-b693-ac345e374823)
 
-Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque en accédant à leurs propriétés. Etant donné que nous ne possédons qu'une couche de cuivre, nous sommes contraints de mettre les composants d'un côté et de tracer les pistes de l'autre. 
+Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque en accédant à leurs propriétés. Etant donné que nous ne possédons qu'une couche de cuivre, nous sommes contraints de mettre les composants d'un côté et de tracer les [pistes](![image](https://github.com/user-attachments/assets/6313654a-c0ef-43aa-a335-a3c913bbcb89)
+) de l'autre. 
 
  
 

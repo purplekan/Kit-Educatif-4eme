@@ -102,6 +102,37 @@ Pour ce faire, nous utiliserons les logiciels [Kicad](https://www.kicad.org) (po
 
 ![Capture d'écran 2024-07-09 100842](https://github.com/user-attachments/assets/1aaa088b-9696-4dab-8d48-edba71e70376)
 
+![Capture d'écran 2024-07-09 102950](https://github.com/user-attachments/assets/6db8ba21-55df-411a-be19-1e6ff275dd49)  
+
+![Capture d'écran 2024-07-09 102935](https://github.com/user-attachments/assets/3248decc-5faf-4de9-a1a3-b58a4d6d390f)  
+
+![Capture d'écran 2024-07-09 102905](https://github.com/user-attachments/assets/1a311494-ada4-46bb-b7e2-691a7b88bb22)  
+
+![Capture d'écran 2024-07-09 102838](https://github.com/user-attachments/assets/da4c05c5-1d49-4e36-ac56-d54e9d6a5c43)  
+
+![Capture d'écran 2024-07-09 102817](https://github.com/user-attachments/assets/562287d1-c84b-418e-b209-e11b0015b1df)  
+
+![Capture d'écran 2024-07-09 102801](https://github.com/user-attachments/assets/41e7f373-d76e-4f07-a2ca-cf2f7bc09fdd)  
+
+![Capture d'écran 2024-07-09 102747](https://github.com/user-attachments/assets/dea7d5da-fa1c-4683-86ec-4f49423a2c39)  
+
+![Capture d'écran 2024-07-09 102724](https://github.com/user-attachments/assets/8e7ec75e-ca16-4394-bfd3-b07d28884176)  
+
+![Capture d'écran 2024-07-09 102712](https://github.com/user-attachments/assets/b36576c6-6d02-4887-9123-a5e0a808460b)  
+
+![Capture d'écran 2024-07-09 102551](https://github.com/user-attachments/assets/362c251e-fcc6-4809-b989-ae3d6a36f70f)  
+
+![Capture d'écran 2024-07-09 102537](https://github.com/user-attachments/assets/d1a3bf95-4283-453b-8fda-62c88cb40bb8)  
+
+![Capture d'écran 2024-07-09 102524](https://github.com/user-attachments/assets/ca0ce93a-59d9-4597-bb57-7e172318b096)  
+
+![Capture d'écran 2024-07-09 102453](https://github.com/user-attachments/assets/e27e4cbd-ac58-408d-bb35-e9e2a7717340)  
+
+![Capture d'écran 2024-07-09 102412](https://github.com/user-attachments/assets/30cc6e31-9fa3-4ec1-87d2-7844cb149dd8)  
+
+![Capture d'écran 2024-07-09 102356](https://github.com/user-attachments/assets/4f9e83d3-da45-400c-93c0-05b0af4f776f)  
+
+![Capture d'écran 2024-07-09 103004](https://github.com/user-attachments/assets/a18e40f5-39d2-4ccc-a7c1-e7e4b62b898e)
 
 
 

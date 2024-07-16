@@ -48,4 +48,6 @@ Plus simplement, l'objectif que vise ce projet est de combler le fossé évident
 Pour identifier quels sont les différents composants, substances ou outils dont l'élève aura besoin dans sa tâche, nous avons parcouru l'ensemble du programme de 4ème grâce au document : **SYN.EN.TO.M.SPT Fiches Pédagogiques PCT 4ème** .  
 C'est un document destiné à l'endroit des professeurs et qui leur permet de dispenser efficacement leur cours tout au long de l'année.
   
-Le document est divisé en matières. Chaque matière a plusieurs leçons et chaque leçons, plusieurs séances. La plupart des séances comportent un schéma, un TP ou une situation problème relative à la leçon étudiée. C'est grâce à ces schémas et TP que nous savons de quoi aurons besoin les élèves et en quelle quantité.
+Le document est divisé en matières. Chaque matière a plusieurs leçons et chaque leçons, plusieurs séances. La plupart des séances comportent un schéma, un TP ou une situation problème relative à la leçon étudiée. C'est grâce à ces schémas et TP que nous savons de quoi aurons besoin les élèves et en quelle quantité.  
+
+Dans le tableau suivant se trouve la liste des éléments contenus dans le kit éducatif réalisé : 

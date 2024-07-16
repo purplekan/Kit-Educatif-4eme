@@ -64,14 +64,14 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Bobine ou aimant (source de tension alternative) |
 | **Outils**                     | Tournevis testeur                 |
 | **Optique**                    | Miroir rectangulaire              |
-|                                | Source de lumière identique       |
+|                                | Source de lumière (lampe)         |
 | **Matériaux Divers**           | Aimant                            |
 |                                | Aiguille                          |
 |                                | Carton                            |
 |                                | Vitre (verre de glace)            |
 |                                | Papier calque                     |
-| **Modèles et Structures**      | Sphère (modélisée)                |
-|                                | Sphère de rayon différent         |
+| **Modèles et Structures**      | Sphère 1 (modélisée)              |
+|                                | Sphère 2 de rayon différent       |
 |                                | Carton servant d'écran            |
 | **Expérimentation**            | Boussole                          |
 |                                | Lampe                             |
@@ -80,11 +80,11 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Cube (plein)                      |
 |                                | Cube (creux)                      |
 |                                | Support vertical                  |
-|                                | Boule                             |
+|                                | Boule (pla)                       |
 |                                | Tige en cuivre                    |
-|                                | Isolant                           |
+|                                | Isolant (plastique)               |
 |                                | Paille en plastique               |
-| **Solutions Chimiques**        | Solution de sulfate de cuivre               |
+| **Solutions Chimiques**        | Solution de sulfate de cuivre     |
 |                                | Solution de dichromate de potassium |
 |                                | Sel de cuisine                    |
 |                                | Eau distillée                     |

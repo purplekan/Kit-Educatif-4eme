@@ -122,7 +122,8 @@ et en dessous :
 
 Quand vous aurez fini toutes ces étapes, rendez vous en haut à gauche et appuyez sur **Fichiers** 📂 puis sur **Fichiers de Fabrication** et enfin **Gerber**.
 Là vous tracez pour la face de cuivre Fcu et pour le Edge Cuts puis le fichier de perçage dans un dossier spécfique  
-![image](https://github.com/user-attachments/assets/a4660e51-844f-4359-8024-59d652e27717)
+![image](https://github.com/user-attachments/assets/a4660e51-844f-4359-8024-59d652e27717)  
+Vous devriez avoir trois fichiers dans ce dossier. Nous ouvrirons les fichiers en question grâce au logiciel [FlatCam](http://flatcam.org)
 
 
 ### b/ FlatCam  

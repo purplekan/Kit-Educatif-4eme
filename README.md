@@ -110,11 +110,13 @@ Après avoir sauvegardé le schéma, nous ouvrons l'éditeur de [PCB](https://ww
 Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque en accédant à leurs propriétés. Etant donné que nous ne possédons qu'une couche de cuivre, nous sommes contraints de mettre les composants d'un côté et de tracer les [pistes](![image](https://github.com/user-attachments/assets/6313654a-c0ef-43aa-a335-a3c913bbcb89)) de l'autre.  
 Muni de l'outil route piste (X), nous pouvons tracer les connexions entre les différents composants. Voici le résultat que l'on obtiendra :
 
- 
+ ![Capture d'écran 2024-07-09 100903](https://github.com/user-attachments/assets/a8bc204d-5907-4f96-9e3b-dd87868b2332)  
 
-![Capture d'écran 2024-07-09 100903](https://github.com/user-attachments/assets/a8bc204d-5907-4f96-9e3b-dd87868b2332)  
+ En ce qui concerne la visualisation 3D, on obtiendra :
+![Capture d'écran 2024-07-09 100842](https://github.com/user-attachments/assets/1aaa088b-9696-4dab-8d48-edba71e70376)  
+et en dessous :  
+![Capture d'écran 2024-07-09 100852](https://github.com/user-attachments/assets/af7aaa65-0b2c-42d0-908e-65e08b65eed2)
 
-![Capture d'écran 2024-07-09 100842](https://github.com/user-attachments/assets/1aaa088b-9696-4dab-8d48-edba71e70376)
 
 ![Capture d'écran 2024-07-09 102356](https://github.com/user-attachments/assets/46874fc1-e03f-4327-9f8f-228929fee674)  
 

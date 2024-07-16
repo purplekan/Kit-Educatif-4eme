@@ -102,17 +102,14 @@ En prenant l'exemple de la LED, nous allons expliquer le processus par lequel no
 Pour concevoir notre LED prête à être utilisée par les élèves, on commence par créér un nouveau projet dans l'application [Kicad](https://www.kicad.org). Suite à cela, nous entrons dans l'éditeur de schéma. Là, nous sélectionnons parmi les composants, la led ainsi que deux broches femelles.  
 Une fois que les composants sont reliés entre eux, nous leur assignons chacun une empreinte. Nous pouvons définir l'empreinte en tant que la trace que laisse le composant sur la plaque de cuivre. Le plus souvent, cela correspond à l'espace nécessaire pour faire passer leurs pattes à travers la [plaque de cuivre](https://www.google.com/imgres?q=plaque%20de%20cuivre&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61Wvf4K9lOL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.be%2FPlaque-cuivre-m%25C3%25A9tal-rouge-Feuille%2Fdp%2FB0C9MZGG9D&docid=2mfXx0tqihvN0M&tbnid=Iq-B5xibmUsjmM&vet=12ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA).  
 
+![Capture d'écran 2024-07-09 094733](https://github.com/user-attachments/assets/26d3b048-6399-48e2-af2b-9f824318ae0a)  
+
 Après avoir sauvegardé le schéma, nous ouvrons l'éditeur de [PCB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mainpcba.com%2Fwhy-pcb-etching-is-critically-important-for-electronics-market%2F&psig=AOvVaw2W0MaiGAb6qnLBVWqQRuDz&ust=1721229802548000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiqlffo7quHAxUyiv0HHbq) (Printed Circuit Board). Un bouton 🔳 sur la barre des tâches en haut à droite nous permet de faire une mise à jour et par conséquent d'importer les empreintes des composants dans l'éditeur de PCB.  
 ![image](https://github.com/user-attachments/assets/6f585e43-604a-4fb8-b693-ac345e374823)
 
-Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque. 
+Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque en accédant à leurs propriétés. Etant donné que nous ne possédons qu'une couche de cuivre, nous sommes contraints de mettre les composants d'un côté et de tracer les pistes de l'autre. 
 
-
-
-
-
-
-![Capture d'écran 2024-07-09 094733](https://github.com/user-attachments/assets/26d3b048-6399-48e2-af2b-9f824318ae0a)  
+ 
 
 ![Capture d'écran 2024-07-09 100903](https://github.com/user-attachments/assets/a8bc204d-5907-4f96-9e3b-dd87868b2332)  
 

@@ -54,9 +54,10 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 
 ### Matériaux
 
-| **Catégorie**                  | **Élément**                        |
+| **Catégorie**                  | **Élément**                       |
 |--------------------------------|-----------------------------------|
 | **Composants Électroniques**   | LED                               |
+|                                | Interrupteur                      |
 |                                | Transistor                        |
 |                                | LDR                               |
 |                                | Diode Zener                       |

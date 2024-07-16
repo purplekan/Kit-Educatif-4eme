@@ -99,6 +99,8 @@ Pour ce faire, nous utiliserons les logiciels [Kicad](https://www.kicad.org) (po
 
 En prenant l'exemple de la LED, nous allons expliquer le processus par lequel nous réalisons les composants électroniques du kit, depuis le schéma au composant prêt à être utilisé. 
 ### A - 1. LED  
+### a/ KiCad  
+
 Pour concevoir notre LED prête à être utilisée par les élèves, on commence par créér un nouveau projet dans l'application [Kicad](https://www.kicad.org). Suite à cela, nous entrons dans l'éditeur de schéma. Là, nous sélectionnons parmi les composants, la led ainsi que deux broches femelles.  
 Une fois que les composants sont reliés entre eux, nous leur assignons chacun une empreinte. Nous pouvons définir l'empreinte en tant que la trace que laisse le composant sur la plaque de cuivre. Le plus souvent, cela correspond à l'espace nécessaire pour faire passer leurs pattes à travers la [plaque de cuivre](https://www.google.com/imgres?q=plaque%20de%20cuivre&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61Wvf4K9lOL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.be%2FPlaque-cuivre-m%25C3%25A9tal-rouge-Feuille%2Fdp%2FB0C9MZGG9D&docid=2mfXx0tqihvN0M&tbnid=Iq-B5xibmUsjmM&vet=12ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjJr5_S7auHAxUBhv0HHXN7AHwQM3oECFQQAA).  
 

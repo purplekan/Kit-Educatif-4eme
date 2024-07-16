@@ -109,7 +109,7 @@ Une fois que les composants sont reliés entre eux, nous leur assignons chacun u
 Après avoir sauvegardé le schéma, nous ouvrons l'éditeur de [PCB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mainpcba.com%2Fwhy-pcb-etching-is-critically-important-for-electronics-market%2F&psig=AOvVaw2W0MaiGAb6qnLBVWqQRuDz&ust=1721229802548000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiqlffo7quHAxUyiv0HHbq) (Printed Circuit Board). Un bouton 🔳 sur la barre des tâches en haut à droite nous permet de faire une mise à jour et par conséquent d'importer les empreintes des composants dans l'éditeur de PCB.  
 ![image](https://github.com/user-attachments/assets/6f585e43-604a-4fb8-b693-ac345e374823)
 
-Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque en accédant à leurs propriétés. Etant donné que nous ne possédons qu'une couche de cuivre, nous sommes contraints de mettre les composants d'un côté et de tracer les [pistes](![image](https://github.com/user-attachments/assets/6313654a-c0ef-43aa-a335-a3c913bbcb89)) de l'autre.  
+Une fois cela fait, nous viendrons sélectionner chaque composant et les renverser par rapport à la plaque en accédant à leurs propriétés. Etant donné que nous ne possédons qu'une couche de cuivre, nous sommes contraints de mettre les composants d'un côté et de tracer les [pistes](https://github.com/user-attachments/assets/6313654a-c0ef-43aa-a335-a3c913bbcb89) de l'autre.  
 Muni de l'outil route piste (X), nous pouvons tracer les connexions entre les différents composants. Voici le résultat que l'on obtiendra :
 
  ![Capture d'écran 2024-07-09 100903](https://github.com/user-attachments/assets/a8bc204d-5907-4f96-9e3b-dd87868b2332)  
@@ -117,7 +117,13 @@ Muni de l'outil route piste (X), nous pouvons tracer les connexions entre les di
  En ce qui concerne la visualisation 3D, on obtiendra :
 ![Capture d'écran 2024-07-09 100842](https://github.com/user-attachments/assets/1aaa088b-9696-4dab-8d48-edba71e70376)  
 et en dessous :  
-![Capture d'écran 2024-07-09 100852](https://github.com/user-attachments/assets/af7aaa65-0b2c-42d0-908e-65e08b65eed2)  
+![Capture d'écran 2024-07-09 100852](https://github.com/user-attachments/assets/af7aaa65-0b2c-42d0-908e-65e08b65eed2)   
+
+
+Quand vous aurez fini toutes ces étapes, rendez vous en haut à gauche et appuyez sur **Fichiers** 📂 puis sur **Fichiers de Fabrication** et enfin **Gerber**.
+Là vous tracez pour la face de cuivre Fcu et pour le Edge Cuts puis le fichier de perçage dans un dossier spécfique  
+![image](https://github.com/user-attachments/assets/a4660e51-844f-4359-8024-59d652e27717)
+
 
 ### b/ FlatCam  
 

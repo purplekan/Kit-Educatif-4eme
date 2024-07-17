@@ -202,6 +202,11 @@ Enfin, on génère la géométrie et on répète les étapes précédentes.
 
 ![Capture d'écran 2024-07-09 103004](https://github.com/user-attachments/assets/daacef14-b6a8-4c5c-9f14-05ffb2faa264)  
 
+Il doit y avoir enfin 3 fichiers dans le dossier où vous avez sauvegardé le CNC Code :  
+
+![image](https://github.com/user-attachments/assets/6a58f092-ecbf-4b56-b569-d98b98d00212)
+
+
 
 
 

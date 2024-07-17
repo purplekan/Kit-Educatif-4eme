@@ -136,16 +136,33 @@ Après avoir chargé ces fichiers, nous allons rediriger l'origine du repère. L
 Pour bien définir l'origine, il nous faut supposer qu'un carré encadre tout notre plan. Nous mettrons alors l'origine dans le coin inférieur gauche de ce carré imaginaire. L'on obtient alors le résultat suivant :
 ![Capture d'écran 2024-07-09 102356](https://github.com/user-attachments/assets/46874fc1-e03f-4327-9f8f-228929fee674)  
 Nous allons à présent passer à la géométrie et à la mise en place des trous pour les pattes des composants. Double cliquons sur le fichier de F.cu puis sur l'option **Isolation Routing** qui apparaît. 
-![Capture d'écran 2024-07-09 102412](https://github.com/user-attachments/assets/d1036d47-8896-4ca5-85c3-096a86abe769)  
+![Capture d'écran 2024-07-09 102412](https://github.com/user-attachments/assets/d1036d47-8896-4ca5-85c3-096a86abe769)   
+
+
+Il suffit ensuite d'entrer les paramètres suivants :  
+- Diameter : 0.2 et C1
+- Passes : 5
+- Overlap : 10%
+Puis vous faites **Generate Geometry**
+Notez bien que tous les paramètres mis dans cette documentation sont spécifiques aux contraintes de matériel du FABLAB et du type de circuit imprimé désiré.
 
 ![Capture d'écran 2024-07-09 102453](https://github.com/user-attachments/assets/466fa78c-47d4-49fd-90e7-b0240243b2c9)  
 
+Au niveau de **Parameters for : Tool 1**, entrons :  
+- Cut Z : -0.1
+- Multi-Depth(coché) : 0.8
+- Travel Z : 2
+- Feedrate X-Y : 90
+- Feedrate Z : 60
+- Spindle speed : 1000
 
+Vous faites **Generate CNCJob Object** pour créér le Gcode dont va servir la CNC pour effectuer le travail. Ce Gcode contient une série d'intructions contenant des informations tels que des coordonnées ou des paramètres d'usinage comme ceux listés au dessus.
 ![Capture d'écran 2024-07-09 102524](https://github.com/user-attachments/assets/ae9d2470-18fe-4df0-b196-51b6edbc1f70)  
 
 ![Capture d'écran 2024-07-09 102537](https://github.com/user-attachments/assets/330077a5-3192-4af9-9529-59ddff7e7dfd)  
 
 ![Capture d'écran 2024-07-09 102551](https://github.com/user-attachments/assets/a9726523-5acb-4687-bec7-57de17e03331)  
+vsdyuvdsyi
 
 ![Capture d'écran 2024-07-09 102712](https://github.com/user-attachments/assets/c2162870-e9ac-47d3-a0ba-5ae8e3d0fad7)  
 

@@ -221,7 +221,7 @@ L'ordre selon lequel nous avons créés ces fichiers sera l'ordre à respecter l
 ### Diagramme 📊 explicatif du fonctionnement de GrblControl  
 
 ```mermaid
-graph TD;
+graph TD
     A[Nettoyer le martyr]
     B[Mettre du scotch double face sur la plaque de cuivre]
     C[Fixer la plaque de cuivre au martyr]
@@ -233,7 +233,7 @@ graph TD;
     I[Définir l'origine des XY en faisant bouger le mandrin]
     J[Rapprocher la broche et la mèche de la plaque]
     K[Définir l'origine des Z]
-    L[Utiliser les pinces crocos<br>(une sur la plaque,<br>une sur la mèche)]
+    L[Utiliser les pinces crocos une sur la plaque et une sur la mèche]
     M[Faire le mappage]
     N[Une fois terminé, définir l'origine des Z]
     O[Mettre la broche en sureté en la décollant]
@@ -244,13 +244,13 @@ graph TD;
     
     T[Charger le fichier de perçage PTH drl]
     U[Mettre la fraise pour le perçage des trous]
-    V[Refaire le mappage (définir la nouvelle origine des Z)]
+    V[Refaire le mappage pour définir la nouvelle origine des Z]
     W[Mettre la broche en sureté en la décollant]
     X[Démarrer le perçage]
 
     Y[Charger le fichier EdgeCuts]
     Z[Mettre la fraise pour le tracé du contour]
-    AA[Refaire le mappage (définir la nouvelle origine des Z)]
+    AA[Refaire le mappage pour définir la nouvelle origine des Z]
     BB[Mettre la broche en sureté en la décollant]
     CC[Démarrer le tracé/découpage]
 

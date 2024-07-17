@@ -166,6 +166,14 @@ Faisons **Save CNC Code** pour enregistrer le Gcode dans un dossier spécifique.
 Passons maintenant au perçage en double cliquant sur le fichier Excellon 
 ![Capture d'écran 2024-07-09 102712](https://github.com/user-attachments/assets/c2162870-e9ac-47d3-a0ba-5ae8e3d0fad7)  
 
+ Cliquons sur **Drilling Tools** pour sélectionner les paramètres de perçage. Ensuite, entrons les paramètres suivants :  
+ - Cut Z : -1.8
+- Multi-Depth(coché) : 0.7
+- Travel Z : 2
+- Feedrate Z : 90
+- Spindle speed : 1000
+Puis faisons Generate CNCJoB object etc... comme pour l'étape précédente.
+
 ![Capture d'écran 2024-07-09 102724](https://github.com/user-attachments/assets/d24322cc-3b5a-4fa1-81e9-a4fc83eca328)  
 
 ![Capture d'écran 2024-07-09 102747](https://github.com/user-attachments/assets/43399809-f956-40fa-83a5-6897ee862781)  

@@ -218,8 +218,45 @@ L'ordre selon lequel nous avons créés ces fichiers sera l'ordre à respecter l
 
 ### c/ GrblControl
 
+### Diagramme 📊 explicatif du fonctionnement de GrblControl  
 
+```plantuml
+@startuml
+title Fonctionnement de la CNC
 
+start
+:Nettoyer le martyr;
+:Mettre du scotch double face sur la plaque de cuivre pour la fixer au martyr;
+:Connecter la CNC à l'ordinateur 🖥;
+:Appuyer sur **débloquer** pour enlever la sécurité;
+:Mettre la fraise pointe javelot sur la broche;
+:Charger le fichier F.cu;
+:Définir un origine travail;
+:Définir l'origine des XY en faisant bouger le mandrin;
+:Rapprocher la broche et donc la mèche de la plaque;
+:Définir l'origine des Z;
+:Utiliser les pinces crocos (une sur la plaque, une sur la mèche);
+:Faire le mappage;
+:Une fois terminé, définir l'origine des Z;
+:Mettre la broche en sureté en la décollant;
+:Faire auto pour bien encadrer le plan;
+:Faire le mappage surfacique;
+:Utiliser le mappage surfacique;
+:Débuter l'usinage;
+:Charger le fichier de perçage PTH drl;
+:Mettre la fraise pour le perçage des trous;
+:Refaire le mappage (définir la nouvelle origine des Z);
+:Mettre la broche en sureté en la décollant;
+:Débuter le perçage;
+:Charger le fichier EdgeCuts;
+:Mettre la fraise pour le tracé du contour;
+:Refaire le mappage (définir la nouvelle origine des Z);
+:Mettre la broche en sureté en la décollant;
+:Débuter le tracé/découpage;
+stop
+
+@enduml
+```
 
         
 ### Code du PTH drl  

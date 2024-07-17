@@ -167,7 +167,7 @@ Passons maintenant au perçage en double cliquant sur le fichier Excellon
 ![Capture d'écran 2024-07-09 102712](https://github.com/user-attachments/assets/c2162870-e9ac-47d3-a0ba-5ae8e3d0fad7)  
 
  Cliquons sur **Drilling Tools** pour sélectionner les paramètres de perçage. Ensuite, entrons les paramètres suivants :  
- - Cut Z : -1.8
+- Cut Z : -1.8
 - Multi-Depth(coché) : 0.7
 - Travel Z : 2
 - Feedrate Z : 90
@@ -181,6 +181,16 @@ Puis faisons Generate CNCJoB object etc... comme pour l'étape précédente.
 ![Capture d'écran 2024-07-09 102801](https://github.com/user-attachments/assets/5f55798e-3fb9-4edd-890b-a9afb50cb387)  
 
 ![Capture d'écran 2024-07-09 102817](https://github.com/user-attachments/assets/478b3ae0-de17-4fc0-8406-10bcc77d495d)  
+
+Terminons par le EdgeCuts. Double cliquons sur le fichier du EdgeCuts puis cliquons sur le **Cutout Tool**. Une fois encore, entrons les paramètres :  
+- Cut Z : -1.8
+- Multi-Depth(coché) : 0.6
+- Margin : 0
+- Gap size: 4
+- Gap type : Bridge
+- Gaps : None
+
+Enfin, on génère la géométrie et on répète les étapes précédentes.
 
 ![Capture d'écran 2024-07-09 102838](https://github.com/user-attachments/assets/6a18ffb4-598c-4f62-8f47-993cdb424080)  
 

@@ -135,10 +135,11 @@ Après avoir chargé ces fichiers, nous allons rediriger l'origine du repère. L
 
 Pour bien définir l'origine, il nous faut supposer qu'un carré encadre tout notre plan. Nous mettrons alors l'origine dans le coin inférieur gauche de ce carré imaginaire. L'on obtient alors le résultat suivant :
 ![Capture d'écran 2024-07-09 102356](https://github.com/user-attachments/assets/46874fc1-e03f-4327-9f8f-228929fee674)  
-Nous allons à présent passer à la géométrie et à la mise en place des trous pour les pattes des composants
+Nous allons à présent passer à la géométrie et à la mise en place des trous pour les pattes des composants. Double cliquons sur le fichier de F.cu puis sur l'option **Isolation Routing** qui apparaît. 
 ![Capture d'écran 2024-07-09 102412](https://github.com/user-attachments/assets/d1036d47-8896-4ca5-85c3-096a86abe769)  
 
 ![Capture d'écran 2024-07-09 102453](https://github.com/user-attachments/assets/466fa78c-47d4-49fd-90e7-b0240243b2c9)  
+
 
 ![Capture d'écran 2024-07-09 102524](https://github.com/user-attachments/assets/ae9d2470-18fe-4df0-b196-51b6edbc1f70)  
 

@@ -123,19 +123,23 @@ et en dessous :
 Quand vous aurez fini toutes ces étapes, rendez vous en haut à gauche et appuyez sur **Fichiers** 📂 puis sur **Fichiers de Fabrication** et enfin **Gerber**.
 Là vous tracez pour la face de cuivre F.cu et pour le Edge Cuts puis le fichier de perçage dans un dossier spécfique  
 ![image](https://github.com/user-attachments/assets/a4660e51-844f-4359-8024-59d652e27717)  
+
 Vous devriez avoir trois fichiers dans ce dossier. Nous ouvrirons les fichiers en question grâce au logiciel [FlatCam](http://flatcam.org)
 
 
 ### b/ FlatCam  
 Une fois [FlatCam](http://flatcam.org) ouvert, regardez en haut à gauche. Sur la barre, il est écrit à un endroit **File**. Suivez le chemin File ▶️ Open ▶️ Open Gerber (deux fichiers : F.cu et EdgeCuts) et Open Excellon (le fichier PTH). Ils correspondent aux fichiers créés par KiCad précemment.  
+
 ![image](https://github.com/user-attachments/assets/eaffcc9c-7a2a-446d-b0a8-943192ced3dd)  
 
 Après avoir chargé ces fichiers, nous allons rediriger l'origine du repère. La CNC que nous utilisons à [TIDD LAB](https://www.linkedin.com/company/tiddafrica/?originalSubdomain=fr) fonctionne par un balayage Sud Ouest vers Nord Est. Nous allons donc préférer définir l'origine de sorte que notre plan d'usinage se trouve dans la partie strictement positive du repère ( cadran en haut à droite). Pour cela, choisissons l'outil **Set Origin** situé dans la barre d'outils en haut.  
+
 ![image](https://github.com/user-attachments/assets/42f542ad-0ced-4fae-8d9c-97c81bc796b7)  
 
 Pour bien définir l'origine, il nous faut supposer qu'un carré encadre tout notre plan. Nous mettrons alors l'origine dans le coin inférieur gauche de ce carré imaginaire. L'on obtient alors le résultat suivant :
 ![Capture d'écran 2024-07-09 102356](https://github.com/user-attachments/assets/46874fc1-e03f-4327-9f8f-228929fee674)  
-Nous allons à présent passer à la géométrie et à la mise en place des trous pour les pattes des composants. Double cliquons sur le fichier de F.cu puis sur l'option **Isolation Routing** qui apparaît. 
+Nous allons à présent passer à la géométrie et à la mise en place des trous pour les pattes des composants. Double cliquons sur le fichier de F.cu puis sur l'option **Isolation Routing** qui apparaît.  
+
 ![Capture d'écran 2024-07-09 102412](https://github.com/user-attachments/assets/d1036d47-8896-4ca5-85c3-096a86abe769)   
 
 
@@ -156,14 +160,18 @@ Au niveau de **Parameters for : Tool 1**, entrons :
 - Feedrate Z : 60
 - Spindle speed : 1000
 
-Faisons **Generate CNCJob Object** pour créér le Gcode dont va se servir la CNC pour effectuer le travail. Ce Gcode contient une série d'intructions contenant des informations tels que des coordonnées ou des paramètres d'usinage comme ceux listés au dessus.
+Faisons **Generate CNCJob Object** pour créér le Gcode dont va se servir la CNC pour effectuer le travail. Ce Gcode contient une série d'intructions contenant des informations tels que des coordonnées ou des paramètres d'usinage comme ceux listés au dessus.  
+
 ![Capture d'écran 2024-07-09 102524](https://github.com/user-attachments/assets/ae9d2470-18fe-4df0-b196-51b6edbc1f70)  
 
 ![Capture d'écran 2024-07-09 102537](https://github.com/user-attachments/assets/330077a5-3192-4af9-9529-59ddff7e7dfd)  
-Faisons **Save CNC Code** pour enregistrer le Gcode dans un dossier spécifique. Enregistrons le fichier avec un nom simple.
+
+Faisons **Save CNC Code** pour enregistrer le Gcode dans un dossier spécifique. Enregistrons le fichier avec un nom simple.  
+
 ![Capture d'écran 2024-07-09 102551](https://github.com/user-attachments/assets/a9726523-5acb-4687-bec7-57de17e03331)  
 
-Passons maintenant au perçage en double cliquant sur le fichier Excellon 
+Passons maintenant au perçage en double cliquant sur le fichier Excellon  
+
 ![Capture d'écran 2024-07-09 102712](https://github.com/user-attachments/assets/c2162870-e9ac-47d3-a0ba-5ae8e3d0fad7)  
 
  Cliquons sur **Drilling Tools** pour sélectionner les paramètres de perçage. Ensuite, entrons les paramètres suivants :  
@@ -206,6 +214,7 @@ Il doit y avoir enfin 3 fichiers dans le dossier où vous avez sauvegardé le CN
 
 ![image](https://github.com/user-attachments/assets/6a58f092-ecbf-4b56-b569-d98b98d00212)
 
+L'ordre selon lequel nous avons créés ces fichiers sera l'ordre à respecter lors de l'usinage à la CNC.
 
 
 

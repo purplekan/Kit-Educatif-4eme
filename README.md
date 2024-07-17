@@ -133,11 +133,9 @@ Une fois [FlatCam](http://flatcam.org) ouvert, regardez en haut à gauche. Sur l
 Après avoir chargé ces fichiers, nous allons rediriger l'origine du repère. La CNC que nous utilisons à [TIDD LAB](https://www.linkedin.com/company/tiddafrica/?originalSubdomain=fr) fonctionne par un balayage Sud Ouest vers Nord Est. Nous allons donc préférer définir l'origine de sorte que notre plan d'usinage se trouve dans la partie strictement positive du repère ( cadran en haut à droite). Pour cela, choisissons l'outil **Set Origin** situé dans la barre d'outils en haut.  
 ![image](https://github.com/user-attachments/assets/42f542ad-0ced-4fae-8d9c-97c81bc796b7)  
 
-Pour bien définir l'origine, il nous faut supposer qu'un carré encadre tout notre plan. Nous mettrons alors l'origine dans le coin inférieur gauche de ce carré imaginaire.
-
-
+Pour bien définir l'origine, il nous faut supposer qu'un carré encadre tout notre plan. Nous mettrons alors l'origine dans le coin inférieur gauche de ce carré imaginaire. L'on obtient alors le résultat suivant :
 ![Capture d'écran 2024-07-09 102356](https://github.com/user-attachments/assets/46874fc1-e03f-4327-9f8f-228929fee674)  
-
+Nous allons à présent passer à la géométrie et à la mise en place des trous pour les pattes des composants
 ![Capture d'écran 2024-07-09 102412](https://github.com/user-attachments/assets/d1036d47-8896-4ca5-85c3-096a86abe769)  
 
 ![Capture d'écran 2024-07-09 102453](https://github.com/user-attachments/assets/466fa78c-47d4-49fd-90e7-b0240243b2c9)  

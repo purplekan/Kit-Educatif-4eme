@@ -156,14 +156,14 @@ Au niveau de **Parameters for : Tool 1**, entrons :
 - Feedrate Z : 60
 - Spindle speed : 1000
 
-Vous faites **Generate CNCJob Object** pour créér le Gcode dont va servir la CNC pour effectuer le travail. Ce Gcode contient une série d'intructions contenant des informations tels que des coordonnées ou des paramètres d'usinage comme ceux listés au dessus.
+Faisons **Generate CNCJob Object** pour créér le Gcode dont va se servir la CNC pour effectuer le travail. Ce Gcode contient une série d'intructions contenant des informations tels que des coordonnées ou des paramètres d'usinage comme ceux listés au dessus.
 ![Capture d'écran 2024-07-09 102524](https://github.com/user-attachments/assets/ae9d2470-18fe-4df0-b196-51b6edbc1f70)  
 
 ![Capture d'écran 2024-07-09 102537](https://github.com/user-attachments/assets/330077a5-3192-4af9-9529-59ddff7e7dfd)  
-
+Faisons **Save CNC Code** pour enregistrer le Gcode dans un dossier spécifique. Enregistrons le fichier avec un nom simple.
 ![Capture d'écran 2024-07-09 102551](https://github.com/user-attachments/assets/a9726523-5acb-4687-bec7-57de17e03331)  
-vsdyuvdsyi
 
+Passons maintenant au perçage en double cliquant sur le fichier Excellon 
 ![Capture d'écran 2024-07-09 102712](https://github.com/user-attachments/assets/c2162870-e9ac-47d3-a0ba-5ae8e3d0fad7)  
 
 ![Capture d'écran 2024-07-09 102724](https://github.com/user-attachments/assets/d24322cc-3b5a-4fa1-81e9-a4fc83eca328)  

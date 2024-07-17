@@ -127,7 +127,14 @@ Vous devriez avoir trois fichiers dans ce dossier. Nous ouvrirons les fichiers e
 
 
 ### b/ FlatCam  
-Une fois [FlatCam](http://flatcam.org) ouvert, regardez en haut à gauche. Sur la barre, il est écrit à un endroit **File**. Suivez le chemin File ▶️ Open ▶️ Open Gerber (deux fichiers : F.cu et EdgeCuts) et Open Excellon (le fichier PTH).
+Une fois [FlatCam](http://flatcam.org) ouvert, regardez en haut à gauche. Sur la barre, il est écrit à un endroit **File**. Suivez le chemin File ▶️ Open ▶️ Open Gerber (deux fichiers : F.cu et EdgeCuts) et Open Excellon (le fichier PTH). Ils correspondent aux fichiers créés par KiCad précemment.  
+![image](https://github.com/user-attachments/assets/eaffcc9c-7a2a-446d-b0a8-943192ced3dd)  
+
+Après avoir chargé ces fichiers, nous allons rediriger l'origine du repère. La CNC que nous utilisons à [TIDD LAB](https://www.linkedin.com/company/tiddafrica/?originalSubdomain=fr) fonctionne par un balayage Sud Ouest vers Nord Est. Nous allons donc préférer définir l'origine de sorte que notre plan d'usinage se trouve dans la partie strictement positive du repère ( cadran en haut à droite). Pour cela, choisissons l'outil **Set Origin** situé dans la barre d'outils en haut.  
+![image](https://github.com/user-attachments/assets/42f542ad-0ced-4fae-8d9c-97c81bc796b7)  
+
+Pour bien définir l'origine, il nous faut supposer qu'un carré encadre tout notre plan. Nous mettrons alors l'origine dans le coin inférieur gauche de ce carré imaginaire.
+
 
 ![Capture d'écran 2024-07-09 102356](https://github.com/user-attachments/assets/46874fc1-e03f-4327-9f8f-228929fee674)  
 

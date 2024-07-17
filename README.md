@@ -220,42 +220,43 @@ L'ordre selon lequel nous avons créés ces fichiers sera l'ordre à respecter l
 
 ### Diagramme 📊 explicatif du fonctionnement de GrblControl  
 
-```plantuml
-@startuml
-title Fonctionnement de la CNC
+```mermaid
+graph TD;
+    A[Nettoyer le martyr]
+    B[Mettre du scotch double face sur la plaque de cuivre]
+    C[Fixer la plaque de cuivre au martyr]
+    D[Connecter la CNC à l'ordinateur]
+    E[Appuyer sur débloquer pour enlever la sécurité]
+    F[Mettre la fraise pointe javelot sur la broche]
+    G[Charger le fichier F.cu]
+    H[Définir un origine travail]
+    I[Définir l'origine des XY en faisant bouger le mandrin]
+    J[Rapprocher la broche et la mèche de la plaque]
+    K[Définir l'origine des Z]
+    L[Utiliser les pinces crocos (une sur la plaque, une sur la mèche)]
+    M[Faire le mappage]
+    N[Une fois terminé, définir l'origine des Z]
+    O[Mettre la broche en sureté en la décollant]
+    P[Faire auto pour bien encadrer le plan]
+    Q[Faire le mappage surfacique]
+    R[Utiliser le mappage surfacique]
+    S[Démarrer l'usinage]
+    
+    T[Charger le fichier de perçage PTH drl]
+    U[Mettre la fraise pour le perçage des trous]
+    V[Refaire le mappage (définir la nouvelle origine des Z)]
+    W[Mettre la broche en sureté en la décollant]
+    X[Démarrer le perçage]
 
-start
-:Nettoyer le martyr;
-:Mettre du scotch double face sur la plaque de cuivre pour la fixer au martyr;
-:Connecter la CNC à l'ordinateur 🖥;
-:Appuyer sur **débloquer** pour enlever la sécurité;
-:Mettre la fraise pointe javelot sur la broche;
-:Charger le fichier F.cu;
-:Définir un origine travail;
-:Définir l'origine des XY en faisant bouger le mandrin;
-:Rapprocher la broche et donc la mèche de la plaque;
-:Définir l'origine des Z;
-:Utiliser les pinces crocos (une sur la plaque, une sur la mèche);
-:Faire le mappage;
-:Une fois terminé, définir l'origine des Z;
-:Mettre la broche en sureté en la décollant;
-:Faire auto pour bien encadrer le plan;
-:Faire le mappage surfacique;
-:Utiliser le mappage surfacique;
-:Débuter l'usinage;
-:Charger le fichier de perçage PTH drl;
-:Mettre la fraise pour le perçage des trous;
-:Refaire le mappage (définir la nouvelle origine des Z);
-:Mettre la broche en sureté en la décollant;
-:Débuter le perçage;
-:Charger le fichier EdgeCuts;
-:Mettre la fraise pour le tracé du contour;
-:Refaire le mappage (définir la nouvelle origine des Z);
-:Mettre la broche en sureté en la décollant;
-:Débuter le tracé/découpage;
-stop
+    Y[Charger le fichier EdgeCuts]
+    Z[Mettre la fraise pour le tracé du contour]
+    AA[Refaire le mappage (définir la nouvelle origine des Z)]
+    BB[Mettre la broche en sureté en la décollant]
+    CC[Démarrer le tracé/découpage]
 
-@enduml
+    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S
+    S --> T --> U --> V --> W --> X
+    X --> Y --> Z --> AA --> BB --> CC
 ```
 
         

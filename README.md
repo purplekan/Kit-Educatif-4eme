@@ -1302,6 +1302,13 @@ G00 Z15.00
 Une fois notre circuit imprimé fait, avec une soudure à l'étain, nous plaçons les composants sur la plaque de cuivre. Notre composant est enfin achevé.  
 C'est le même procédé qui sera utilisé pour chacun des composants électroniques de la liste du matériel.
 
+### B - OUTILS  
+
+Le tournevis testeur est un outil qui sera utilisé dans l'un des TP au cours de l'année. Plus spécifiquement, il servira à identifier qu'il existe une différence entre la phase et le neutre d'une prise électrique.  
+
+Du côté de l'étain et du fer à souder, ils seront utilisés lors du cours de soudure. Les élèves pourront donc être initiés à la soudure. D'autre part, ils auront la possibilité de s'entraîner chez eux pour se perfectionner.  
+
+### C - MATERIAUX DIVERS
 
 
 

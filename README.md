@@ -1282,7 +1282,8 @@ G00 Z2.0000
 G00 Z15.00
 
 ```
-  
+
+ ### Image de l'interface de GrblControl( Premier fichier chargé)   
 ![Capture d'écran 2024-07-17 145249](https://github.com/user-attachments/assets/9b240623-d005-4eb3-b61d-6bf2310a6c95)  
 
 ![Capture d'écran 2024-07-17 145233](https://github.com/user-attachments/assets/137a2423-2045-4754-8e84-7d644d3af58b)  

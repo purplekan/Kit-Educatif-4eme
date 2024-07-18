@@ -1296,7 +1296,10 @@ G00 Z15.00
 ![Capture d'écran 2024-07-17 145024](https://github.com/user-attachments/assets/d1bd5986-71ff-4398-b42c-6cdf0de95958)  
         
 ### Interface de base
-![Capture d'écran 2024-07-17 144850](https://github.com/user-attachments/assets/faa4b644-0de1-43d9-8a34-49b3223c88b3)    
+![Capture d'écran 2024-07-17 144850](https://github.com/user-attachments/assets/faa4b644-0de1-43d9-8a34-49b3223c88b3)  
+
+Une fois notre circuit imprimé fait, avec une soudure à l'étain, nous plaçons les composants sur la plaque de cuivre. Notre composant est enfin achevé.  
+C'est le même procédé qui sera utilisé pour chacun des composants électroniques de la liste du matériel.
 
 
 

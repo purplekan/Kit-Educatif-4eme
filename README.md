@@ -81,7 +81,7 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Cube (plein)                      |
 |                                | Cube (creux)                      |
 |                                | Support vertical                  |
-|                                | Boule (pla)                       |
+|                                | Boule (PLA)                       |
 |                                | Tige en cuivre                    |
 |                                | Isolant (plastique)               |
 |                                | Paille en plastique               |

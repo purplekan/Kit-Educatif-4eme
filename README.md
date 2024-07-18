@@ -61,9 +61,9 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Transistor                        |
 |                                | LDR                               |
 |                                | Diode Zener                       |
-|                                | Étain                             |
 |                                | Bobine ou aimant (source de tension alternative) |
 | **Outils**                     | Tournevis testeur                 |
+|                                | Étain                             |
 | **Optique**                    | Miroir rectangulaire              |
 |                                | Source de lumière (lampe)         |
 | **Matériaux Divers**           | Aimant                            |

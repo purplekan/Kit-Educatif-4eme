@@ -1289,12 +1289,16 @@ G00 Z15.00
 ### Image de l'interface de GrblControl( Deuxième fichier chargé)  
 ![Capture d'écran 2024-07-17 145249](https://github.com/user-attachments/assets/9b240623-d005-4eb3-b61d-6bf2310a6c95)  
 
+### Image de l'interface de GrblControl( Troisième fichier chargé)
+![Capture d'écran 2024-07-17 145326](https://github.com/user-attachments/assets/e27ed722-4f46-442f-84b9-6bbfd2d3f15f)  
+
  ### Interface de contrôle 
 ![Capture d'écran 2024-07-17 145024](https://github.com/user-attachments/assets/d1bd5986-71ff-4398-b42c-6cdf0de95958)  
+        
+### Interface de base
+![Capture d'écran 2024-07-17 144850](https://github.com/user-attachments/assets/faa4b644-0de1-43d9-8a34-49b3223c88b3)    
 
-![Capture d'écran 2024-07-17 144850](https://github.com/user-attachments/assets/faa4b644-0de1-43d9-8a34-49b3223c88b3)  
 
-![Capture d'écran 2024-07-17 145326](https://github.com/user-attachments/assets/e27ed722-4f46-442f-84b9-6bbfd2d3f15f)  
 
 
 
